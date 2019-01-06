@@ -1,4 +1,9 @@
 print("Hello world")
 print("hello everybody")
+
 # Это строчки от старого файла - без 3-й строки
 # и без 4 строчки тоже
+
+print("Hi")
+print("Hello world, everybody. Hi")
+
